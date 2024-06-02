@@ -1,0 +1,14 @@
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\bin\Debug\net8.0\Calculadora_Melhorada.exe
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\bin\Debug\net8.0\Calculadora_Melhorada.deps.json
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\bin\Debug\net8.0\Calculadora_Melhorada.runtimeconfig.json
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\bin\Debug\net8.0\Calculadora_Melhorada.dll
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\bin\Debug\net8.0\Calculadora_Melhorada.pdb
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\Calculadora_Melhorada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\Calculadora_Melhorada.AssemblyInfoInputs.cache
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\Calculadora_Melhorada.AssemblyInfo.cs
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\Calculadora_Melhorada.csproj.CoreCompileInputs.cache
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\Calculadora_Melhorada.dll
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\refint\Calculadora_Melhorada.dll
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\Calculadora_Melhorada.pdb
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\Calculadora_Melhorada.genruntimeconfig.cache
+C:\Users\joaof\OneDrive\Área de Trabalho\DIO\DIO-TDD\Calculadora_Melhorada\obj\Debug\net8.0\ref\Calculadora_Melhorada.dll
